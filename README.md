@@ -4,7 +4,7 @@ First try at dll injection
 
 Contains:
 
-1. SimpleProgram.cpp 2. injector.cpp 3. dll.dll
+SimpleProgram.cpp | injector.cpp | dll.dll
 
 1. A simple program with 1 global integer variable that reads input from console
 
